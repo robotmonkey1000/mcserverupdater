@@ -4,8 +4,8 @@
   "description": "Allows to keep an up to date server file, with configuration files.",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.88.0",
-    "npm": "^6.9.0"
+    "npm": "^6.9.0",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
