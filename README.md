@@ -16,7 +16,7 @@ Edit the update.bat file with the bat file you use to run your server.
 
 
 ## Run
-Run update.bat, as long as you have done the setup everything should be handled correctly, the downloads should commence and your server should run.
+Run update.bat, as long as you have done the setup everything should be handled correctly, the downloads should commence and your server should run. This should be run whenever you want to start your server it will do an update check and then start your server.
 
 
 ## Config File
