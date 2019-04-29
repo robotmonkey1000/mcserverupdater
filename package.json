@@ -1,0 +1,19 @@
+{
+  "name": "mcversionupdater",
+  "version": "0.0.1",
+  "description": "Allows to keep an up to date server file, with configuration files.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Minecraft"
+  ],
+  "author": "robotmonkey1000",
+  "license": "GPL-3.0-or-later"
+}
