@@ -90,6 +90,11 @@ function getUpdate( version )
 
 function begin()
 {
+  if ( !options )
+  {
+    console.log( "No Configuration File!" );
+    return -1;
+  }
   query( ( err, data ) =>
   {
     if ( err )
