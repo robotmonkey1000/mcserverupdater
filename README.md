@@ -33,8 +33,8 @@ Should be named mcversion.json, there is an example version included in the repo
 ```
 
 The "version" property should contain either snapshot or latest.
-->snapshot will always check for the most recent snapshot.
-->latest will only check for the most recent full release.
+"snapshot" will always check for the most recent snapshot.
+"latest" will only check for the most recent full release.
 
 The "currentVersion" property is the current version that the server is running on.
 ->This can be any proper version, either a snapshot or latest.
