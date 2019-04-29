@@ -1,6 +1,6 @@
-#MC Server Updater
+# MC Server Updater
 
-##Setup
+## Setup
 Make sure you have [NodeJS](https://nodejs.org/) installed.
 Run the setup.bat file this will make sure all node packages are installed and that the configuration file is created.
 
